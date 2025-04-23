@@ -33,6 +33,7 @@
   </a>
 </div>
 
-<img src="https://github.com/oseiasbarreto/oseiasbarreto/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+![Gato dev tomando café](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29tc2c5Z2dtbzI3eW9qcmxnM2d0YTJhYmNwMjk2MHFtOTR3MmY0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ule4vhcY1xEKQ/giphy.gif)
+
 
 ###
