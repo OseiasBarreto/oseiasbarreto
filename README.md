@@ -1,4 +1,4 @@
-# Hi!   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" alt="Waving Hand" /> My name is Oséias
+# Hi!   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" alt="Waving Hand" /> My name is Oséias Barreto
 </p> <p align="center"> 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1a73a570-e3dc-4baa-b99e-bf4c4df2ba8e" alt="coding gif" width="500" />
