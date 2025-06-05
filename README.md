@@ -1,5 +1,9 @@
-![coding gif](https://github.com/user-attachments/assets/1a73a570-e3dc-4baa-b99e-bf4c4df2ba8e)
-# Hi!  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" alt="Waving Hand" />  My name is Oséias
+# Hi!  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1a73a570-e3dc-4baa-b99e-bf4c4df2ba8e" alt="coding gif" width="500" />
+</p>
+
+My name is Oséias
 
 ---
 
@@ -19,7 +23,7 @@ I've been learning to code for several years, with experience in backend and fro
 ---
 
 ### Skills  
-<p align="left">
+<p align="center">
 <a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -35,11 +39,17 @@ I've been learning to code for several years, with experience in backend and fro
 ---
 
 ### Socials  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barreto-oseias/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/barreto-oseias/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
 ### GitHub Stats  
-<a href="https://github.com/OseiasBarreto">
-  <img src="https://github-readme-stats.vercel.app/api?username=OseiasBarreto&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
-</a>
+<p align="center">
+  <a href="https://github.com/OseiasBarreto">
+    <img src="https://github-readme-stats.vercel.app/api?username=OseiasBarreto&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
+  </a>
+</p>
