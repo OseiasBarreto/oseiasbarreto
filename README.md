@@ -1,6 +1,4 @@
-# Hi!  
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" alt="Waving Hand" />  
-My name is Oséias
+# Hi!  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" alt="Waving Hand" />  My name is Oséias
 
 ---
 
@@ -36,7 +34,6 @@ I've been learning to code for several years, with experience in backend and fro
 ---
 
 ### Socials  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/OseiasBarreto)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barreto-oseias/)
 
 ---
