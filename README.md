@@ -69,12 +69,3 @@ Atuo em projetos práticos que unem boas práticas de programação, versionamen
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <a href="https://github.com/OseiasBarreto">
-    <img src="https://github-readme-stats.vercel.app/api?username=OseiasBarreto&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
-  </a>
-</p>
