@@ -1,4 +1,4 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving Hand" /> My name is Oséias Barreto
+﻿# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving Hand" /> My name is Oséias Barreto
 
 
 
@@ -65,9 +65,11 @@ Atuo em projetos práticos que unem boas práticas de programação, versionamen
 
 ## 🎮 Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/OseiasBarreto/oseiasbarreto/output/github-contribution-grid-bomberman.svg" alt="Bomberman Contribution Graph" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OseiasBarreto/oseiasbarreto/output/bomberman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OseiasBarreto/oseiasbarreto/output/bomberman-contribution-graph.svg" />
+  <img alt="Bomberman Contribution Graph" src="https://raw.githubusercontent.com/OseiasBarreto/oseiasbarreto/output/bomberman-contribution-graph.svg" />
+</picture>
 
 ---
 
