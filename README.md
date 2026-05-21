@@ -63,6 +63,14 @@ Atuo em projetos práticos que unem boas práticas de programação, versionamen
 
 ---
 
+## 🎮 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/OseiasBarreto/oseiasbarreto/output/github-contribution-grid-bomberman.svg" alt="Bomberman Contribution Graph" />
+</p>
+
+---
+
 ## 🌐 Socials  
 <p align="center">
   <a href="https://www.linkedin.com/in/barreto-oseias/">
