@@ -27,14 +27,17 @@ Atuo em projetos práticos que unem boas práticas de programação, versionamen
 
 ## 📌 Projetos de Destaque
 
-- 📦 [Inventory Transfer](https://github.com/OseiasBarreto/Inventory-Transfer)  
-  Sistema de **transferência de estoque entre unidades**, desenvolvido com **Spring Boot + JPA**, aplicando conceitos de **camadas, REST API, e boas práticas de arquitetura**.
+- 🎮 [Bannerlord AI Companion](https://github.com/OseiasBarreto/bannerlord-ai-companion)  
+  Mod em **C#** para *Mount & Blade II: Bannerlord* que integra um **LLM** (via OpenRouter) a um companheiro de IA dentro do jogo. Responde em tempo real na própria UI de diálogo do jogo (patch de runtime via **Harmony**), recebe contexto real do mundo no prompt (ouro, clima, exército, inventário) e mantém memória de conversa persistente por personagem.
 
-- 🧾 [Sistema Gerador de Recibos](https://github.com/OseiasBarreto/Gerador_de_recibos)  
-  Sistema simples para autônomos, permitindo cadastrar clientes e serviços, emitir recibos em PDF e armazenar registros em JSON.  
+- 📦 [Inventory Transfer](https://github.com/OseiasBarreto/Inventory-Transfer)  
+  Sistema fullstack de **transferência de estoque entre unidades** (Spring Boot + JPA + React/HTML). Implementa duas versões de um mesmo serviço — uma **bugada** (sem validação de saldo/lock) e uma **corrigida**, com `@Transactional`, rollback automático e **optimistic locking** (`@Version`) — para demonstrar consistência em acesso concorrente. Documentado com Swagger e coberto por testes unitários.
 
 - 💳 [Sistema Bancário em Java](https://github.com/OseiasBarreto/basic-banking-system)  
-  Projeto didático em Java com POO, autenticação de usuários, criptografia de senhas e operações bancárias (depósito, saque, transferência).  
+  Simulador de conta bancária em **Java (POO)**, com autenticação de usuários (senha com hash **SHA-256**), persistência em JSON, e operações bancárias completas (depósito, saque, transferência, encerramento de conta com validações de idade e saldo).
+
+- 🧾 [Sistema Gerador de Recibos](https://github.com/OseiasBarreto/Gerador_de_recibos)  
+  Sistema em Java para autônomos: cadastro de clientes e serviços, emissão de recibos vinculando cliente/serviço/data, persistência em JSON e geração dos recibos em arquivo de texto (`.txt`) pronto para impressão.
 
 ---
 
